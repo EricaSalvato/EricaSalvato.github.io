@@ -25,14 +25,25 @@ Conferencese and Schools attended
 * 6th International Conference on Control, Decision and Information Technologies (CoDIT), Paris, France, 23-26 April 2019.
 * Winterschool on Quantitative Systems Biology: Learning and Artificial Intelligence at The Abdus Salam International Centre for Theoretical Physics (ICTP), Trieste, Italy, 12-23 November 2018.
 
-Skills
+Languages
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Italian (mother tongue)
+* English (B2)
+* German (basic)
+
+Software Skills
+======
+* Python (Numpy, Gym, PyTorch)
+* MATLAB
+* Julia
+* CoppeliaSim
+* Arduino IDE
+* NVIDIA Jetson Nano
+* RStudio
+* LaTeX
+* Excel
+* Word
+* PowerPoint
 
 Publications
 ======
