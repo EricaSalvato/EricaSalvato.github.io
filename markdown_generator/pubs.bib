@@ -1,0 +1,63 @@
+% Encoding: UTF-8
+
+@Article{11368_2992446,
+  author   = {Bruchon, Niky and Fenu, Gianfranco and Gaio, Giulio and Hirlander, Simon and Lonza, Marco and Pellegrino, Felice Andrea and Salvato, Erica},
+  title    = {An Online Iterative Linear Quadratic Approach for a Satisfactory Working Point Attainment at FERMI},
+  journal  = {INFORMATION},
+  year     = {2021},
+  volume   = {12},
+  pages    = {----},
+  abstract = {The attainment of a satisfactory operating point is one of the main problems in the tuning of particle accelerators. These are extremely complex facilities, characterized by the absence of a model that accurately describes their dynamics, and by an often persistent noise which, along with machine drifts, affects their behaviour in unpredictable ways. In this paper, we propose an online iterative Linear Quadratic Regulator (iLQR) approach to tackle this problem on the FERMI free-electron laser of Elettra Sincrotrone Trieste. It consists of a model identification performed by a neural network trained on data collected from the real facility, followed by the application of the iLQR in a Model-Predictive Control fashion. We perform several experiments, training the neural network with increasing amount of data, in order to understand what level of model accuracy is needed to accomplish the task. We empirically show that the online iLQR results, on average, in fewer steps than a simple gradient ascent (GA), and requires a less accurate neural network to achieve the goal.},
+  doi      = {10.3390/info12070262},
+  keywords = {neural networks; optimization; control systems; free-electron laser},
+  url      = {https://www.mdpi.com/2078-2489/12/7/262},
+}
+
+@Article{11368_2965255,
+  author   = {Cairoli, Francesca and Fenu, Gianfranco and Pellegrino, Felice Andrea and Salvato, Erica},
+  title    = {Model Predictive Control of Glucose Concentration Based on Signal Temporal Logic Specifications with Unknown-Meals Occurrence},
+  journal  = {CYBERNETICS AND SYSTEMS},
+  year     = {2020},
+  volume   = {51},
+  pages    = {426--441},
+  abstract = {The glycemia regulation is a significant challenge in the Artificial Pancreas (AP) scenario. Several control systems have been developed in the last years, many of them requiring meal announcements. Therefore, if the patients skip the meal announcement or make a mistake in the estimation of the amount of carbohydrates, the control performance will be negatively affected. In this extended version of our previous work, we present a Model Predictive Controller (MPC) for the AP in which the meal is treated as a disturbance to be estimated by an Unknown Input Observer (UIO). The MPC constraints are expressed in terms of Signal Temporal Logic (STL) specifications. Indeed, in the AP some requirements result in hard constraints (in particular, absolutely avoid hypoglycemia and absolutely avoid severe hyperglycemia) and some other in soft constraints (avoid a prolonged hyperglycemia) and STL is suitable for expressing such requirements. The achieved results are obtained using the BluSTL toolbox, which allows to synthesize model predictive controllers with STL constraints. We report simulations showing that the proposed approach, avoiding unnecessary restrictions, provides safe trajectories in correspondence of higher unknown disturbance.},
+  doi      = {10.1080/01969722.2020.1758463},
+  keywords = {Artificial Pancreas; Model Predictive Control; Signal Temporal Logic; Unknown Input Observer},
+  url      = {https://www.tandfonline.com/doi/full/10.1080/01969722.2020.1758463},
+}
+
+@Article{11368_2991559,
+  author   = {Casagrande, Vittorio and Fenu, Gianfranco and Pellegrino, Felice Andrea and Pin, Gilberto and Salvato, Erica and Zorzenon, Davide},
+  title    = {Machine learning for computationally efficient electrical loads estimation in consumer washing machines},
+  journal  = {NEURAL COMPUTING \& APPLICATIONS},
+  year     = {2021},
+  pages    = {1--12},
+  abstract = {Estimating the wear of the single electrical parts of a home appliance without resorting to a large number of sensors is
+desirable for ensuring a proper level of maintenance by the manufacturers. Deep learning techniques can be effective tools
+for such estimation from relatively poor measurements, but their computational demands must be carefully considered, for
+the actual deployment. In this work, we employ one-dimensional Convolutional Neural Networks and Long Short-Term
+Memory networks to infer the status of some electrical components of different models of washing machines, from the
+electrical signals measured at the plug. These tools are trained and tested on a large dataset (502 washing cycles  1000 h)
+collected from four different washing machines and are carefully designed in order to comply with the memory constraints
+imposed by available hardware selected for a real implementation. The approach is end-to-end; i.e., it does not require any
+feature extraction, except the harmonic decomposition of the electrical signals, and thus it can be easily generalized to
+other appliances.},
+  doi      = {10.1007/s00521-021-06138-9},
+  keywords = {Long short term memory; One-dimensional convolutional neural network; Memory efficiency; Washing machine},
+  url      = {https://link.springer.com/article/10.1007/s00521-021-06138-9},
+}
+
+@Article{11368_2965287,
+  author   = {Bruchon, N. and Fenu, G. and Gaio, G. and Lonza, M. and O'shea, F. H. and Pellegrino, F. A. and Salvato, E.},
+  title    = {Basic reinforcement learning techniques to control the intensity of a seeded free-electron laser},
+  journal  = {ELECTRONICS},
+  year     = {2020},
+  volume   = {9},
+  pages    = {"-"--"-"},
+  abstract = {Optimal tuning of particle accelerators is a challenging task. Many different approaches have been proposed in the past to solve two main problems—attainment of an optimal working point and performance recovery after machine drifts. The most classical model-free techniques (e.g., Gradient Ascent or Extremum Seeking algorithms) have some intrinsic limitations. To overcome those limitations, Machine Learning tools, in particular Reinforcement Learning (RL), are attracting more and more attention in the particle accelerator community. We investigate the feasibility of RL model-free approaches to align the seed laser, as well as other service lasers, at FERMI, the free-electron laser facility at Elettra Sincrotrone Trieste. We apply two different techniques—the first, based on the episodic Q-learning with linear function approximation, for performance optimization; the second, based on the continuous Natural Policy Gradient REINFORCE algorithm, for performance recovery. Despite the simplicity of these approaches, we report satisfactory preliminary results, that represent the first step toward a new fully automatic procedure for the alignment of the seed laser to the electron beam. Such an alignment is, at present, performed manually.},
+  doi      = {10.3390/electronics9050781},
+  keywords = {Control-system; Free-electron laser; Optimization; Reinforcement learning},
+  url      = {https://www.mdpi.com/2079-9292/9/5/781},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}
