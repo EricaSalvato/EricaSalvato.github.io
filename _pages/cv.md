@@ -11,22 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Information Engineering, University of Trieste (Italy), 2022 (expected)
+* M.S. in Electrical and Systems Engineering, University of Trieste (Italy), 2018
+* B.S. Electronical and Computer Engineering, University of Messina (Italy), 2015
 
-Work experience
+Conferencese and Schools attended
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 3rd Advanced Course on Data Science & Machine Learning, Siena, Italy, 13-17 July 2020.
+* Model Predictive Control course, Prof. Alberto Bemporad, IMT Lucca, Italia, 3-10 June 2020.
+* Brain Computer Interface Spring School, g.tec (https://www.gtec.at/spring-school-2020/), remotely, 20-23 April 2020.
+* National Conference Automatica.it of the Italian Society of Professors and Researcher in Automation (SIDRA), Ancona, Italy, 9-11 September 2019.
+* Workshop on Locomotion and Navigation from Flies to robots at The Abdus Salam International Centre for Theoretical Physics (ICTP), Trieste, Italy, 10-12 July 2019.
+* 6th International Conference on Control, Decision and Information Technologies (CoDIT), Paris, France, 23-26 April 2019.
+* Winterschool on Quantitative Systems Biology: Learning and Artificial Intelligence at The Abdus Salam International Centre for Theoretical Physics (ICTP), Trieste, Italy, 12-23 November 2018.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
 Skills
 ======
 * Skill 1
@@ -48,12 +46,25 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+Research Community Service 
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Reviewer for Journals:
+  * IEEE Control Systems Letters (L-CSS)
+ 
+* Reviewer for International Conferences:
+  * International Conference on Decision and Control (CDC) 2021,
+  * European Control Conference (ECC) 2021,
+  * American Control Conference (ACC) 2021,
+  * American Control Conference (ACC) 2020,
+  * European Control Conference (ECC) 2020,
+  * International Conference on Control Technology and Applications (CCTA) 2019,
+  * International Conference on Decision and Control (CDC) 2019.
+
+* Subreviewer for International Conferences:
+  * International Conference on Tools with Artificial Intelligence (ICTAI) 2019
+   
+* Subreviewer for National Conferences:
+  * Automatica.it 2019
+
+* Programme Committee Member for National Conferences:
+  * [Didamatica 2020](https://www.aicanet.it/documents/10776/2999927/Comitati+Didamatica+2020/a98f757e-0ce3-46b2-95d6-7ff2276bc455) 
