@@ -57,7 +57,7 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Research Community Service 
+Research Community Services 
 ======
 * Reviewer for Journals:
   * IEEE Control Systems Letters (L-CSS)
