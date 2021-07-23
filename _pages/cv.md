@@ -15,7 +15,7 @@ Education
 * M.S. in Electrical and Systems Engineering, University of Trieste (Italy), 2018
 * B.S. Electronical and Computer Engineering, University of Messina (Italy), 2015
 
-Conferencese and Schools attended
+Conferences and Schools attended
 ======
 * 3rd Advanced Course on Data Science & Machine Learning, Siena, Italy, 13-17 July 2020.
 * Model Predictive Control course, Prof. Alberto Bemporad, IMT Lucca, Italia, 3-10 June 2020.
