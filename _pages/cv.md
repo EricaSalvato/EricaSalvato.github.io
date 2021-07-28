@@ -17,6 +17,7 @@ Education
 
 Conferences and Schools attended
 ======
+* The Genetic and Evolutionary Computation Conference (GECCO) 2021, remotely, 10-14 July 2021.
 * 3rd Advanced Course on Data Science & Machine Learning, Siena, Italy, 13-17 July 2020.
 * Model Predictive Control course, Prof. Alberto Bemporad, IMT Lucca, Italia, 3-10 June 2020.
 * Brain Computer Interface Spring School, g.tec (https://www.gtec.at/spring-school-2020/), remotely, 20-23 April 2020.
