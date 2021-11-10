@@ -1,0 +1,19 @@
+---
+title: "Control of a Mixed Autonomy Signalised Urban Intersection: An Action-Delayed Reinforcement Learning Approach"
+collection: talks
+type: "Talk"
+permalink: /talks/2019-04-24-talk-1
+venue: "AUTOMATICA 2021"
+date: 2021-09-08
+location: "Catania, Italy"
+---
+I presented the paper "Control of a Mixed Autonomy Signalised Urban Intersection: An Action-Delayed Reinforcement Learning Approach" on [AUTOMATICA 2021](http://automatica2021.unict.it/)
+
+Content:
+----
+We consider a mixed autonomy scenario where the traffic intersection controller decides whether the traffic light will be green or red at each lane for multiple traffic-light blocks. 
+The objective of the traffic intersection controller is to minimize the queue length at each lane and maximize the outflow of vehicles over each block. 
+We consider that the traffic intersection controller informs the autonomous vehicle (AV) whether the traffic light will be green or red for the future traffic-light block. 
+Thus, the AV can adapt its dynamics by solving an optimal control problem. 
+We model the decision process of the traffic intersection controller as a deterministic delayed Markov decision process owing to the delayed action by the traffic controller. 
+We propose Reinforcement Learning based model-free algorithm to obtain the optimal policy. We show - by extensive simulations - that our algorithm converges and drastically reduces the energy costs of AVs as the traffic controller communicates with the AVs.
