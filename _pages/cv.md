@@ -17,6 +17,8 @@ Education
 
 Conferences and Schools attended
 ======
+* The 60th IEEE conference on Decision and Control (CDC) 2021, Austin, Texas, USA, 13-17 December 2021
+* The 44th International Convention on Information, Communication and Electronic Technology (MIPRO), 2021, Opatija, Croatia, 27 September-1 October 2021.
 * The Genetic and Evolutionary Computation Conference (GECCO) 2021, remotely, 10-14 July 2021.
 * 3rd Advanced Course on Data Science & Machine Learning, Siena, Italy, 13-17 July 2020.
 * Model Predictive Control course, Prof. Alberto Bemporad, IMT Lucca, Italia, 3-10 June 2020.
@@ -34,6 +36,7 @@ Languages
 
 Software Skills
 ======
+* Rapid
 * Python (Numpy, Gym, PyTorch)
 * MATLAB
 * Julia
@@ -62,8 +65,11 @@ Research Community Services
 ======
 * Reviewer for Journals:
   * IEEE Control Systems Letters (L-CSS)
+  * IEEE Transactions on Industrial Informatics
  
 * Reviewer for International Conferences:
+  * European Control Conference (ECC) 2022,
+  * American Control Conference (ACC) 2022,
   * International Conference on Decision and Control (CDC) 2021,
   * European Control Conference (ECC) 2021,
   * American Control Conference (ACC) 2021,
