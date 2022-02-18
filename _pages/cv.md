@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Information Engineering, University of Trieste (Italy), 2022 (expected)
+* Ph.D in Information Engineering, University of Trieste (Italy), 2022
 * M.S. in Electrical and Systems Engineering, University of Trieste (Italy), 2018
 * B.S. Electronical and Computer Engineering, University of Messina (Italy), 2015
 
