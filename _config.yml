@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Erica Salvato / PhD Student"
+title                    : "Erica Salvato"
 title_separator          : "-"
 name                     : &name "Erica Salvato"
 description              : &description "personal description"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Erica Salvato"
   avatar           : "profile.jpg"
-  bio              : "PhD Student in Control Systems and AI"
+  bio              : "Posdoctoral fellow in Control Systems and AI"
   location         : 
   employer         : "University of Trieste, Trieste, Italy"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=M5dI7usAAAAJ&hl=it"
-  email            : "erica.salvato@phd.units.it"
+  email            : "erica.salvato@dia.units.it"
   researchgate     : "https://www.researchgate.net/profile/Erica-Salvato"
   uri              :
   bitbucket        :
