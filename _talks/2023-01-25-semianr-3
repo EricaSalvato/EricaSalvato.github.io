@@ -1,0 +1,18 @@
+---
+title: "Reinforcement Learning on Real-World Dynamical Systems"
+collection: talks
+type: "Seminar"
+permalink: /talks/2023-01-25-semianr-3
+venue: "Data Science and Scientific Computing Master of the University of Trieste, 25 January 2023"
+date: 2023-01-25
+location: "Trieste, Italy"
+---
+I was invited to present my PhD thesis to the students of the Master's course in Data Science and Scientific Computing at the Department of Mathematics and Geosciences (University of Trieste), hosted by [Prof. Luca Bortolussi](https://bortolussi.dmg.units.it/).
+
+Content:
+---
+Reinforcement learning (RL) offers the chance to make a system learn control policies to successfully and autonomously perform specific tasks. 
+Despite its inherent potential as a control technique, RL still has some limitations that affect its effectiveness on real-world dynamic systems. 
+
+In this presentation, we focus on the applications of RL to real-world control problems, both in simulation and in reality.
+We also discuss about the *reality gap* (RG), i.e.,the phenomenon, triggered by the difference between the simulator and the real system, which leads to the degradation of the controller performance, learned on a simulator when used on the real system.
