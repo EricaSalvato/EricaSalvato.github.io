@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Erica Salvato"
   avatar           : "profile.jpg"
-  bio              : "Assitant Professor (non tenure track)"
+  bio              : "Assitant Professor" \n "(non tenure track)"
   location         : "Trieste, Italy"
   employer         : "https://www.units.it/en"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
