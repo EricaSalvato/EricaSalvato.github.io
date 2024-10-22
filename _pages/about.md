@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <div style="text-align: justify">
-Since 2023, I am an Assistant Professor (non-tenure track) in Automatic Control at the <a href="https://dia.units.it/">Department of Engineering and Architecture</a> at the <a href="https://www.units.it/">University of Trieste</a>. 
+Since 2023, I have been an Assistant Professor (non-tenure track) in Automatic Control at the <a href="https://dia.units.it/">Department of Engineering and Architecture</a> at the <a href="https://www.units.it/">University of Trieste</a>. 
   
 I received my <a href="https://www.unime.it/it/cds/ingegneria-elettronica-e-informatica">B.Sc. in Information Engineering</a> in 2015 from the University of Messina (Italy), where I was supervised by <a href="https://archivio.unime.it/it/persona/nicola-donato/orario">Prof. Nicola Donato</a>. 
 
